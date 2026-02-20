@@ -23,7 +23,10 @@
     "eslint": "^9.39.1",
     "eslint-plugin-react-hooks": "^7.0.1",
     "eslint-plugin-react-refresh": "^0.4.24",
+<<<<<<< HEAD
     "gh-pages": "^6.3.0",
+=======
+>>>>>>> e70f4787dddb70b8a6b177fb485554c85bf8770d
     "globals": "^16.5.0",
     "postcss": "^8.5.6",
     "tailwindcss": "^4.2.0",
